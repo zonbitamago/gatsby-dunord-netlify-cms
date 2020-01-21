@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: ウィンドアンサンブル ドゥ・ノール
-image: /img/カバー画像2.jpg
+image: /img/カバー画像.jpeg
 heading: ウィンドアンサンブル ドゥ・ノール
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
