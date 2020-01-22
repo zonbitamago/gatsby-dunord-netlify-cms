@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Windensemble Du Nord
 image: /img/カバー画像.jpeg
-heading: ウィンドアンサンブル ドゥ・ノール
+heading: ' '
 subheading: ウィンドアンサンブル ドゥ・ノール
 mainpitch:
   title: Our Story
