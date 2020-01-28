@@ -7,7 +7,7 @@ import Layout from "../components/Layout";
 import BlogRoll from "../components/BlogRoll";
 
 import { TwitterTimelineEmbed, TwitterFollowButton } from "react-twitter-embed";
-import { FacebookProvider, Like, Page } from "react-facebook";
+import { FacebookProvider, Page } from "react-facebook";
 
 const TWITTER_ID = "dunord_sapporo";
 
