@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby";
 
 import Layout from "../components/Layout";
 // import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
+// import BlogRoll from "../components/BlogRoll";
 
 import { TwitterTimelineEmbed, TwitterFollowButton } from "react-twitter-embed";
 import { FacebookProvider, Page } from "react-facebook";
@@ -93,7 +93,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
+                    <Link className="btn_bg" to="/blog">
                       Information
                     </Link>
                   </div>
@@ -144,7 +144,7 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
 
-                <div className="column is-12">
+                {/* <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
                   </h3>
@@ -154,7 +154,7 @@ export const IndexPageTemplate = ({
                       Read more
                     </Link>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
