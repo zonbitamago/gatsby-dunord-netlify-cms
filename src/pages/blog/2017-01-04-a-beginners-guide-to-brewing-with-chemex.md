@@ -10,19 +10,23 @@ tags:
 ---
 ![第30回定期演奏会](/img/30回定期.jpg "第30回定期演奏会")
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+9年ぶりの、コンサートホールKitaraでの定期演奏会。当時の演奏会を覚えてらっしゃる方はいますでしょうか（ちなみに筆者は当時団員ではありません）。2011年の5月に、第21回定期演奏会が開催されていました。曲目を抜粋しますと；
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+* J.マッキー「Hymn to a Blue Hour」：神秘的な現代曲
+* R.W.スミス「Promising Skies」：トランペットソロで始まるストーリー構成豊かなJazz楽曲
+* 2011年吹奏楽コンクール課題曲「南風のマーチ」
 
-## The little secrets of Chemex brewing
+今と変わらずメジャーな人受けのする選曲ではなく、目新しい最新気鋭の作曲家たちから選定をしていました。
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+
+
+## ドゥ・ノール記念すべき第30回 定期演奏会
+
+Kitaraといえば、座席に座ってまず目に入る大ホールのオルガンです。オルガンといえばバロック、といえばバッハと連想ゲームで
 
 1. Always buy dedicated Chemex filters.
 2. Use a scale, don’t try to eyeball it.
 3. Never skip preheating the glass.
 4. Timing is key, don’t forget the clock.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+ぜひ会場へと足をお運びいただきますよう。
