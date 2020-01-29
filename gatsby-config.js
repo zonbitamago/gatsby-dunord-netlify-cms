@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Wind Ensemble Du Nord 〜札幌の吹奏楽団〜",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution."
+      "私たちは札幌を拠点とし、「いい音楽を楽しく・なかよく」をモットーとして活動している一般バンドです。"
   },
   plugins: [
     "gatsby-plugin-react-helmet",
