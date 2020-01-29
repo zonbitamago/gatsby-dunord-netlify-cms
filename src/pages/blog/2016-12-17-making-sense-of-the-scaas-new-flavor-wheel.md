@@ -1,33 +1,30 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: 過去の演奏会
+date: 2020-01-30T15:00:10.000Z
+description: ' '
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/01_regular_concert.jpg
 tags:
-  - flavor
-  - tasting
+  - 演奏会
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+### 結成記念演奏会
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+*1991.3.18  札幌市教育文化会館 大ホール*
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+![結成記念演奏会](/img/01_regular_concert.jpg "結成記念演奏会")
 
-## What the updates mean to you
+- - -
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+* 祝典序曲（D.ショスタコーヴィチ） 主よ、人の望みの喜びよ（Ｊ.Ｓ.バッハ）
+* トランペット協奏曲 ホ長調（J.N.フンメル）　＜Trp独奏：東京佼成WO　奥山 泰三＞
+* バレエ組曲「シルヴィア」（L.ドリーブ）
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+- - -
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+* 愛のテーマ
+* ビートルズのナンバーより
+* ゴッドファーザー２～愛は誰の手に
+* 黒いジャガーのテーマ
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+- - -
