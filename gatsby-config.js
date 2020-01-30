@@ -2,11 +2,13 @@ module.exports = {
   siteMetadata: {
     title: "Wind Ensemble Du Nord 〜札幌の吹奏楽団〜",
     description:
-      "私たちは札幌を拠点とし、「いい音楽を楽しく・なかよく」をモットーとして活動している一般バンドです。"
+      "私たちは札幌を拠点とし、「いい音楽を楽しく・なかよく」をモットーとして活動している一般バンドです。",
+    siteUrl: `https://dunord.netlify.com/`
   },
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
+    "gatsby-plugin-sitemap",
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: "gatsby-source-filesystem",
