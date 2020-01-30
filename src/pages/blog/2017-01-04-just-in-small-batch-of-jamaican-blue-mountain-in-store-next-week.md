@@ -1,34 +1,47 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: ごあいさつ
+date: 2019-12-31T15:00:10.000Z
+description: ' '
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+featuredimage: /img/introduction.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - ごあいさつ
 ---
+![ごあいさつ](/img/introduction.jpg "ごあいさつ")
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+- - -
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+#### ウインドアンサンブル　ドゥ・ノールのホームページへようこそ
 
-## A little history
+私達は札幌を拠点とし、「いい音楽を楽しく・なかよく」をモットーとして活動している一般バンドです。
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+\
+名前は**「北の吹奏楽団」**という意味で、当バンドの音楽監督でありサックスプレイヤー、編曲者の仲田守先生につけていただきました。\
+１0代から還暦超えまで幅広い年齢構成、技量もまちまちの「ごった混ぜの石狩鍋」のようなバンドです。(活きのいい鮭もいますが、ホッチャレが多いかな？)
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
 
-## What you need to know before trying
+\
+活動方針も単純で、自分たちのやりたい音楽が自由に演奏出来る定期演奏会に重点をおいております。\
+また技術向上のため出来る限りコンクールへも参加させて戴きますが、いかなる演奏会も全員参加を基本とし、コンクールのための調整はしておりません。\
+「来る者は拒まず、去る者は追わず」の方針で、音楽を楽しみたい方で、楽器があり、やる気があるなら老若男女を問わず大歓迎です。
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+\
+一度見学してみませんか？メールでご連絡ください。お待ちしております。
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+
+- - -
+
+#### 沿革
+
+|||
+|--|--|
+|1990/10/10|札幌にて10名で発足。|
+|1990/11/1|東京佼成WOの仲田守先生に団の名前を命名していただく。|
+|1991/3/18|結成記念演奏会を決行！<br>以降、毎年１回の定期演奏会を開催。|
+|2000/5/27|創立10周年記念　第10回定期演奏会を開催。|
+|2004/5/15|札幌市民劇場　第14回定期演奏会を開催。|
+|2010/5/22|第20回定期演奏会を開催。|
+|2020/3/7|札幌市民劇場　第30回定期演奏会を開催。|
