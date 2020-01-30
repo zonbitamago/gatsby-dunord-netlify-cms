@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 演奏会情報
 date: 2020-01-31T15:00:10.000Z
 description: 第30回定期演奏会のお知らせ
-featuredpost: false
+featuredpost: true
 featuredimage: /img/30回定期.jpg
 tags:
   - 演奏会
