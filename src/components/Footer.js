@@ -16,6 +16,7 @@ const Footer = class extends React.Component {
             src={logoFooter}
             alt="WindEnsemble Du Nord"
             style={{ width: "14em", height: "10em" }}
+            loading="lazy"
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
