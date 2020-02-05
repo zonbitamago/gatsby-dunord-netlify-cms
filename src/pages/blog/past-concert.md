@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 過去の演奏会
 date: 2020-01-30T15:00:10.000Z
-description: ' '
+description: ' ウィンドアンサンブル　ドゥ・ノール　過去の演奏会情報'
 featuredpost: false
 featuredimage: /img/01_regular_concert.jpg
 tags:
@@ -613,8 +613,6 @@ tags:
 * ブロードウェイ ショウストッパーズ オーバーチュア
 
 - - -
-
-
 
 ### 第8回定期演奏会
 
