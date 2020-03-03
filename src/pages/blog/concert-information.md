@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 演奏会情報
 date: 2020-01-31T15:00:10.000Z
 description: ' ウィンドアンサンブル　ドゥ・ノール　第30回定期演奏会を札幌コンサートホールKitaraで開催。'
-featuredpost: true
+featuredpost: false
 featuredimage: /img/30回定期.jpg
 tags:
   - 演奏会
