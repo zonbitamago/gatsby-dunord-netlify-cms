@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: concert_canacel
+title: 第30回定期演奏会　開催中止のお知らせとお詫び
 date: 2020-02-26T15:00:00.000Z
 description: |
   新型コロナウイルス感染症発生に伴う「ウィンドアンサンブル ドゥ・ノール 第30回定期演奏会」開催中止のお知らせとお詫び
-featuredpost: false
+featuredpost: true
 featuredimage: /img/返金手続きについて.png
 tags:
   - 演奏会中止のお知らせ
