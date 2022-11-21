@@ -24,7 +24,7 @@ class FeaturedRoll extends React.Component {
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`
+                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                         }}
                       />
                     </div>
@@ -61,9 +61,9 @@ class FeaturedRoll extends React.Component {
 FeaturedRoll.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array
-    })
-  })
+      edges: PropTypes.array,
+    }),
+  }),
 };
 
 // eslint-disable-next-line
@@ -72,7 +72,7 @@ export default () => (
     query={graphql`
       query FeaturedRollQuery {
         allMarkdownRemark(
-          sort: { order: ASC, fields: [frontmatter___date] }
+          sort: { frontmatter: { date: ASC } }
           filter: {
             frontmatter: {
               templateKey: { eq: "blog-post" }
