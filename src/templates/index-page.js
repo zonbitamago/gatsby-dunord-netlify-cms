@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 
 import Layout from "../components/Layout";
-// import Features from "../components/Features";
 import FeaturedRoll from "../components/FeaturedRoll";
 
 import { TwitterTimelineEmbed, TwitterFollowButton } from "react-twitter-embed";
@@ -11,7 +10,7 @@ import { FacebookProvider, Page } from "react-facebook";
 
 const TWITTER_ID = "dunord_sapporo";
 
-export const IndexPageTemplate = ({
+const IndexPageTemplate = ({
   image,
   title,
   heading,
@@ -28,7 +27,6 @@ export const IndexPageTemplate = ({
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `center`,
-        // backgroundAttachment: `fixed`
       }}
     >
       <div
@@ -93,9 +91,6 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="column is-12">
-                  {/* <h3 className="has-text-weight-semibold is-size-2">
-                    Information
-                  </h3> */}
                   <FeaturedRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
@@ -103,14 +98,6 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div>
-                {/* <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn_bg" to="/blog">
-                      Information
-                    </Link>
-                  </div>
-                </div> */}
-                {/* <Features gridItems={intro.blurbs} /> */}
                 <div className="columns is-multiline">
                   <div className="column is-6">
                     <section className="section">
@@ -150,7 +137,6 @@ export const IndexPageTemplate = ({
                         sourceType="profile"
                         screenName={TWITTER_ID}
                         options={{ height: 400 }}
-                        // onComplete={action}
                       />
                     </section>
                   </div>
