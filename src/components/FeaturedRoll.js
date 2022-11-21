@@ -66,6 +66,7 @@ FeaturedRoll.propTypes = {
   })
 };
 
+// eslint-disable-next-line
 export default () => (
   <StaticQuery
     query={graphql`
