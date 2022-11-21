@@ -10,7 +10,8 @@ import { FacebookProvider, Page } from "react-facebook";
 
 const TWITTER_ID = "dunord_sapporo";
 
-const IndexPageTemplate = ({
+// eslint-disable-next-line
+export const IndexPageTemplate = ({
   image,
   title,
   heading,
